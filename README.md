@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Gustavo Andrade
+# 👾 Gustavo Andrade
 
 **`Desenvolvedor FullStack`**
 
