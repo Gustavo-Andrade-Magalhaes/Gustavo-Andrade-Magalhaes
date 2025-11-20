@@ -1,15 +1,9 @@
 <!-- Banner Novo -->
 
 <div align="center" style="width: 100%; margin: 0; padding: 0;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6b1fcf&height=260&section=header&text=Gustavo%20Andrade&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
-
-<img src="https://avatars.githubusercontent.com/u/178116825?v=4" 
-    width="160" 
-    style="border-radius: 50%; margin-top: -80px; border: 4px solid #6b1fcf; box-shadow: 0 0 15px #6b1fcf;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6b1fcf&height=150&section=header&text=Gustavo%20Andrade👾&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 
 </div>
-
----
 
 # 👋🏻 Sobre mim
 
@@ -19,7 +13,7 @@ Atualmente curso **Inglês**, e também completei **certificações intermediár
 
 ---
 
-# 📚 Estudando Atualmente
+# Estudando Atualmente
 
 * Java (OOP, APIs, projetos intermediários)
 * Desenvolvimento Mobile (Android / Kotlin)
@@ -108,7 +102,7 @@ Projeto pessoal para estudar agentes inteligentes e processamento de linguagem n
 
 ---
 
-# 📊 Estatísticas (Versão Estável — não quebra)
+#  Estatísticas 
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Andrade-Magalhaes&theme=midnight-purple&show_icons=true" />
