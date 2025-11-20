@@ -24,11 +24,12 @@ Atualmente curso **Inglês**, e também completei **certificações intermediár
 # Estudando Atualmente
 
 * Java (OOP, APIs, projetos intermediários)
-* Desenvolvimento Mobile (Android / Kotlin)
+* Desenvolvimento Mobile (Android )
 * Bancos de Dados SQL
 * Inteligência Artificial e LLMs (LangChain4j)
 * Git/GitHub
 * Inglês
+* Python
 
 ---
 
