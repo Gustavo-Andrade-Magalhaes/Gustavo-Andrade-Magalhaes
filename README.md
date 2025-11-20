@@ -1,14 +1,17 @@
-<!-- Banner -->
+<!-- Banner Novo -->
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=180&section=header&text=Seu%20Nome%20Aqui&fontSize=40&fontColor=FFFFFF&animation=twinkling"/>
+<div align="center" style="width: 100%; margin: 0; padding: 0;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6b1fcf&height=260&section=header&text=Gustavo%20Andrade&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 
-  <img src="https://avatars.githubusercontent.com/u/1?v=4" width="140" style="border-radius: 50%; margin-top: -30px; border: 3px solid #8A2BE2;" />
+<img src="https://avatars.githubusercontent.com/u/178116825?v=4" 
+    width="160" 
+    style="border-radius: 50%; margin-top: -80px; border: 4px solid #6b1fcf; box-shadow: 0 0 15px #6b1fcf;" />
+
 </div>
 
 ---
 
-# 👋 Sobre mim
+# 👋🏻 Sobre mim
 
 Sou um desenvolvedor em formação, apaixonado por tecnologia e atualmente focado em evoluir minhas habilidades em Java, desenvolvimento mobile e inteligência artificial. Estou sempre estudando novas ferramentas — ainda não domino todas profundamente, mas já utilizei várias delas em projetos reais.
 
@@ -27,7 +30,7 @@ Atualmente curso **Inglês**, e também completei **certificações intermediár
 
 ---
 
-# 🎮 Tecnologias
+# 👾 Tecnologias
 
 <div>
   <img src="https://img.shields.io/badge/Java-8A2BE2?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -42,7 +45,7 @@ Atualmente curso **Inglês**, e também completei **certificações intermediár
 
 ---
 
-# 🏆 Certificações
+#  Certificações
 
 * Certificação intermediária – Programação Estruturada
 * Certificação intermediária – Desenvolvimento Backend I
@@ -52,9 +55,9 @@ Atualmente curso **Inglês**, e também completei **certificações intermediár
 
 ---
 
-# 💼 Projetos
+#  Projetos
 
-## 🔹 Banco Guará (Conclusão do Curso de Java)
+## 🟣 Banco Guará (Conclusão do Curso de Java)
 
 Simulação de um banco digital com foco em gerenciamento de cartões de crédito.
 
@@ -68,7 +71,7 @@ Simulação de um banco digital com foco em gerenciamento de cartões de crédit
 
 ---
 
-## 🔹 Gerenciador de Tarefas APAE (Mobile)
+## 🟣 Gerenciador de Tarefas APAE (Mobile)
 
 Projeto desenvolvido na disciplina de dispositivos móveis, permitindo cadastro e acompanhamento de atividades.
 
@@ -81,7 +84,7 @@ Projeto desenvolvido na disciplina de dispositivos móveis, permitindo cadastro 
 
 ---
 
-## 🔹 LLM Test – LangChain4j
+## 🟣 LLM Test – LangChain4j
 
 Projeto pessoal para estudar agentes inteligentes e processamento de linguagem natural.
 
@@ -108,8 +111,8 @@ Projeto pessoal para estudar agentes inteligentes e processamento de linguagem n
 # 📊 Estatísticas (Versão Estável — não quebra)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&theme=midnight-purple&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=midnight-purple" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Andrade-Magalhaes&theme=midnight-purple&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Andrade-Magalhaes&layout=compact&theme=midnight-purple" />
 </div>
 
 ---
@@ -117,7 +120,7 @@ Projeto pessoal para estudar agentes inteligentes e processamento de linguagem n
 # 🐍 Snake Contributions
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SeuUsuario/SeuUsuario/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Gustavo-Andrade-Magalhaes/Gustavo-Andrade-Magalhaes/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
