@@ -102,7 +102,6 @@ Projeto pessoal para estudar agentes inteligentes e processamento de linguagem n
 * Dominar Java e Spring Boot
 * Evoluir para projetos backend completos
 * Melhorar inglês
-* Criar portfólio profissional com design moderno
 * Aprofundar conhecimentos em IA aplicada
 * Participar de projetos reais colaborativos
 
