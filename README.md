@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Gustavo Andrade, tenho 20 anos e sou natural de São Paulo. Concluí o ensino médio no Dr. Leandro Franceschini, com o curso técnico em administração de empresas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unimetrocamp Wyden.
+Me chamo Gustavo Andrade, tenho 20 anos e sou natural de São Paulo. Concluí o ensino médio no Dr. Leandro Franceschini, com o curso técnico em administração de empresas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unimetrocamp Wyden. ME acompanhe no linkedIn "[Gustavo Andrade](https://www.linkedin.com/in/gustavo-andrade-145115259/)"
 
 <p align="left">
     <a href="https://github.com/Gustavo-Andrade-Magalhaes?tab=repositories&sort=stargazers">
@@ -133,14 +133,14 @@ Me chamo Gustavo Andrade, tenho 20 anos e sou natural de São Paulo. Concluí o 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Gustavo-Andrade-Magalhaes_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Andrade-Magalhaes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
