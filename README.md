@@ -1,8 +1,6 @@
-<!-- Banner Novo -->
 
 <div align="center" style="width: 100%; margin: 0; padding: 0;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6b1fcf&height=150&section=header&text=Gustavo%20Andrade👾&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6b1fcf&height=150&section=header&text=Gustavo%20Andrade👾&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=27" width="100%" />
 </div>
 
 # 👋🏻 Sobre mim
@@ -28,7 +26,6 @@ Atualmente curso **Inglês**, e também completei **certificações intermediár
 
 <div>
   <img src="https://img.shields.io/badge/Java-8A2BE2?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-8A2BE2?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-8A2BE2?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-8A2BE2?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-8A2BE2?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -45,7 +42,6 @@ Atualmente curso **Inglês**, e também completei **certificações intermediár
 * Certificação intermediária – Desenvolvimento Backend I
 * Certificação intermediária – Fundamentos de Banco de Dados
 * Certificação intermediária – Lógica de Programação
-* (adicione mais aqui depois)
 
 ---
 
@@ -114,8 +110,12 @@ Projeto pessoal para estudar agentes inteligentes e processamento de linguagem n
 # 🐍 Snake Contributions
 
 <div align="center">
+  
 ![Snake animation](https://github.com/Gustavo-Andrade-Magalhaes/Gustavo-Andrade-Magalhaes/blob/output/github-contribution-grid-snake.svg)
+
 </div>
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Gustavo-Andrade-Magalhaes&repo=Gustavo-Andrade-Magalhaes&theme=react)](https://github.com/Gustavo-Andrade-Magalhaes/Gustavo-Andrade-Magalhaes)
 
 ---
 
@@ -127,6 +127,8 @@ Projeto pessoal para estudar agentes inteligentes e processamento de linguagem n
   </a>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
+<div align="center" >
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=150&section=footer" 
+     style="width: 145%; margin: 0; padding: 0; display: block;" />
+
 </div>
