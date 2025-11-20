@@ -5,27 +5,27 @@
 Me chamo Gustavo Andrade, tenho 20 anos e sou natural de São Paulo. Concluí o ensino médio no Dr. Leandro Franceschini, com o curso técnico em administração de empresas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unimetrocamp Wyden.
 
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/Gustavo-Andrade-Magalhaes?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/Gustavo-Andrade-Magalhaes?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/Gustavo-Andrade-Magalhaes?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/Gustavo-Andrade-Magalhaes?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
      <a href="https://www.linkedin.com/in/gustavo-andrade-145115259/">
         <img 
             alt="LinkedIn" 
             title="Me siga no LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+            src="https://custom-icon-badges.demolab.com/github/followers/Gustavo-Andrade-Magalhaes?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+          
+ </a>
 </p>
 
 ---
@@ -125,7 +125,7 @@ Me chamo Gustavo Andrade, tenho 20 anos e sou natural de São Paulo. Concluí o 
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📈 Estatísticas
 
 <p>
   <img 
