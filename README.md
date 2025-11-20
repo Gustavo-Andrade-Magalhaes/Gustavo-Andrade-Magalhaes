@@ -11,6 +11,16 @@ Atualmente curso **Inglês**, e também completei **certificações intermediár
 
 ---
 
+#  Estatísticas 
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Andrade-Magalhaes&theme=midnight-purple&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Andrade-Magalhaes&layout=compact&theme=midnight-purple" />
+</div>
+
+
+---
+
 # Estudando Atualmente
 
 * Java (OOP, APIs, projetos intermediários)
@@ -95,16 +105,6 @@ Projeto pessoal para estudar agentes inteligentes e processamento de linguagem n
 * Criar portfólio profissional com design moderno
 * Aprofundar conhecimentos em IA aplicada
 * Participar de projetos reais colaborativos
-
----
-
-#  Estatísticas 
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Andrade-Magalhaes&theme=midnight-purple&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Andrade-Magalhaes&layout=compact&theme=midnight-purple" />
-</div>
-
 
 ---
 
