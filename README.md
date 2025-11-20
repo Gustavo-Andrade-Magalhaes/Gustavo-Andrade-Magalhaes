@@ -109,8 +109,9 @@ Projeto pessoal para estudar agentes inteligentes e processamento de linguagem n
 
 # 🐍 Snake Contributions
 
-![Snake animation](https://github.com/Gustavo-Andrade-Magalhaes/Gustavo-Andrade-Magalhaes/blob/output/github-contribution-grid-snake.svg)
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Gustavo-Andrade-Magalhaes/Gustavo-Andrade-Magalhaes/main/github-contribution-grid-snake.svg" />
+</div>
 ---
 
 # 🔗 Redes
