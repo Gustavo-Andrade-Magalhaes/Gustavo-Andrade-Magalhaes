@@ -105,13 +105,7 @@ Projeto pessoal para estudar agentes inteligentes e processamento de linguagem n
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Andrade-Magalhaes&layout=compact&theme=midnight-purple" />
 </div>
 
----
 
-# 🐍 Snake Contributions
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Gustavo-Andrade-Magalhaes/Gustavo-Andrade-Magalhaes/main/github-contribution-grid-snake.svg" />
-</div>
 ---
 
 # 🔗 Redes
