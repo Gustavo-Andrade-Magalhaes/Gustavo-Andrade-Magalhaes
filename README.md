@@ -1,146 +1,135 @@
-# 👾 Gustavo Andrade
+<!-- Banner -->
 
-**`Desenvolvedor FullStack`**
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=180&section=header&text=Seu%20Nome%20Aqui&fontSize=40&fontColor=FFFFFF&animation=twinkling"/>
 
-Me chamo Gustavo Andrade, tenho 20 anos e sou natural de São Paulo. Concluí o ensino médio no Dr. Leandro Franceschini, com o curso técnico em administração de empresas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unimetrocamp Wyden. ME acompanhe no linkedIn "[Gustavo Andrade](https://www.linkedin.com/in/gustavo-andrade-145115259/)"
-
-<p align="left">
-    <a href="https://github.com/Gustavo-Andrade-Magalhaes?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Gustavo-Andrade-Magalhaes?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Gustavo-Andrade-Magalhaes?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Gustavo-Andrade-Magalhaes?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-     <a href="https://www.linkedin.com/in/gustavo-andrade-145115259/">
-        <img 
-            alt="LinkedIn" 
-            title="Me siga no LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Gustavo-Andrade-Magalhaes?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-          
- </a>
-</p>
+  <img src="https://avatars.githubusercontent.com/u/1?v=4" width="140" style="border-radius: 50%; margin-top: -30px; border: 3px solid #8A2BE2;" />
+</div>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+# 👋 Sobre mim
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Spring boot" 
-    title="Spring boot"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-/>
+Sou um desenvolvedor em formação, apaixonado por tecnologia e atualmente focado em evoluir minhas habilidades em Java, desenvolvimento mobile e inteligência artificial. Estou sempre estudando novas ferramentas — ainda não domino todas profundamente, mas já utilizei várias delas em projetos reais.
 
-          
-<br/>
-<br/>
+Atualmente curso **Inglês**, e também completei **certificações intermediárias da faculdade**, referentes a conjuntos de matérias concluídas.
 
-### 📈 Estatísticas
+---
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Gustavo-Andrade-Magalhaes_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+# 📚 Estudando Atualmente
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Andrade-Magalhaes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+* Java (OOP, APIs, projetos intermediários)
+* Desenvolvimento Mobile (Android / Kotlin)
+* Bancos de Dados SQL
+* Inteligência Artificial e LLMs (LangChain4j)
+* Git/GitHub
+* Inglês
 
-</p>
+---
+
+# 🎮 Tecnologias
+
+<div>
+  <img src="https://img.shields.io/badge/Java-8A2BE2?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-8A2BE2?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-8A2BE2?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-8A2BE2?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-8A2BE2?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-8A2BE2?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain4j-8A2BE2?style=for-the-badge"/>
+</div>
+
+---
+
+# 🏆 Certificações
+
+* Certificação intermediária – Programação Estruturada
+* Certificação intermediária – Desenvolvimento Backend I
+* Certificação intermediária – Fundamentos de Banco de Dados
+* Certificação intermediária – Lógica de Programação
+* (adicione mais aqui depois)
+
+---
+
+# 💼 Projetos
+
+## 🔹 Banco Guará (Conclusão do Curso de Java)
+
+Simulação de um banco digital com foco em gerenciamento de cartões de crédito.
+
+**Tecnologias:**
+
+<div>
+  <img src="https://img.shields.io/badge/Java-8A2BE2?style=flat&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OOP-8A2BE2?style=flat"/>
+  <img src="https://img.shields.io/badge/MySQL-8A2BE2?style=flat&logo=mysql&logoColor=white"/>
+</div>
+
+---
+
+## 🔹 Gerenciador de Tarefas APAE (Mobile)
+
+Projeto desenvolvido na disciplina de dispositivos móveis, permitindo cadastro e acompanhamento de atividades.
+
+**Tecnologias:**
+
+<div>
+  <img src="https://img.shields.io/badge/Kotlin-8A2BE2?style=flat&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-8A2BE2?style=flat&logo=android&logoColor=white"/>
+</div>
+
+---
+
+## 🔹 LLM Test – LangChain4j
+
+Projeto pessoal para estudar agentes inteligentes e processamento de linguagem natural.
+
+**Tecnologias:**
+
+<div>
+  <img src="https://img.shields.io/badge/Java-8A2BE2?style=flat&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain4j-8A2BE2?style=flat"/>
+</div>
+
+---
+
+# 🎯 Objetivos 2025
+
+* Dominar Java e Spring Boot
+* Evoluir para projetos backend completos
+* Melhorar inglês
+* Criar portfólio profissional com design moderno
+* Aprofundar conhecimentos em IA aplicada
+* Participar de projetos reais colaborativos
+
+---
+
+# 📊 Estatísticas (Versão Estável — não quebra)
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&theme=midnight-purple&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=midnight-purple" />
+</div>
+
+---
+
+# 🐍 Snake Contributions
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SeuUsuario/SeuUsuario/output/github-contribution-grid-snake.svg" />
+</div>
+
+---
+
+# 🔗 Redes
+
+<div align="left">
+  <a href="https://www.linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
+</div>
