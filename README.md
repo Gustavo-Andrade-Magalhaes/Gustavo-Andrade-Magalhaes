@@ -12,13 +12,13 @@ Já participei de projetos envolvendo análise de dados, LLMs, Spring Boot e aut
 
 Atualmente estudando:
 
-Python
-SQL
-Inteligência Artificial e LLMs
-Automação com n8n
-Engenharia e análise de dados
-Segurança da Informação
-Inglês
+Python;
+SQL;
+Inteligência Artificial e LLMs;
+Automação com n8n;
+Engenharia e análise de dados;
+Segurança da Informação e 
+Inglês.
 
 ---
 
