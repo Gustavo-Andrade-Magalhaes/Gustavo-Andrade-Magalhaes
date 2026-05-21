@@ -122,7 +122,7 @@ Projeto pessoal para estudar agentes inteligentes e processamento de linguagem n
 # 🔗 Redes
 
 <div align="left">
-  <a href="https://www.linkedin.com" target="_blank">
+  <a href="https://www.linkedin.com/in/gustavo-andrade-145115259/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
