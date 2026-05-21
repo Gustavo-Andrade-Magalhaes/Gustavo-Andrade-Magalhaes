@@ -1,13 +1,12 @@
-
 <div align="center" style="width: 100%; margin: 0; padding: 0;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6b1fcf&height=150&section=header&text=Gustavo%20Andrade👾&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=27" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6b1fcf&height=150&section=header&text=Gustavo%20Andrade👾&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=27" width="100%"/>
 </div>
 
 # 👋🏻 Sobre mim
 
 Estudante de Análise e Desenvolvimento de Sistemas, com foco em dados, automação, inteligência artificial e tecnologia aplicada à segurança.
 
-Desenvolvo projetos utilizando Python, SQL, Java e ferramentas voltadas para análise de dados, APIs, automação de processos e IA aplicada. Tenho interesse em engenharia de dados, inteligência operacional e soluções tecnológicas que auxiliem na segurança, monitoramento e tomada de decisão.
+Desenvolvo projetos utilizando Python, SQL, Java e ferramentas voltadas para análise de dados, APIs, automação de processos e IA aplicada. Tenho interesse em engenharia de dados, inteligência artificial e segurança da informação.
 
 Já participei de projetos envolvendo análise de dados, LLMs, Spring Boot e automações inteligentes, sempre buscando unir tecnologia e resolução de problemas reais.
 
@@ -26,8 +25,8 @@ Inglês
 #  Estatísticas 
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Andrade-Magalhaes&theme=midnight-purple&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Andrade-Magalhaes&layout=compact&theme=midnight-purple" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Andrade-Magalhaes&theme=midnight-purple&show_icons=true&cache_seconds=0" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Andrade-Magalhaes&layout=compact&theme=midnight-purple&cache_seconds=0" />
 </div>
 
 
