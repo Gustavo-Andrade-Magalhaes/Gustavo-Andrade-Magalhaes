@@ -5,9 +5,21 @@
 
 # 👋🏻 Sobre mim
 
-Sou um desenvolvedor em formação, apaixonado por tecnologia e atualmente focado em evoluir minhas habilidades em Java, desenvolvimento mobile e inteligência artificial. Estou sempre estudando novas ferramentas — ainda não domino todas profundamente, mas já utilizei várias delas em projetos reais.
+Estudante de Análise e Desenvolvimento de Sistemas, com foco em dados, automação, inteligência artificial e tecnologia aplicada à segurança.
 
-Atualmente curso **Inglês**, e também completei **certificações intermediárias da faculdade**, referentes a conjuntos de matérias concluídas.
+Desenvolvo projetos utilizando Python, SQL, Java e ferramentas voltadas para análise de dados, APIs, automação de processos e IA aplicada. Tenho interesse em engenharia de dados, inteligência operacional e soluções tecnológicas que auxiliem na segurança, monitoramento e tomada de decisão.
+
+Já participei de projetos envolvendo análise de dados, LLMs, Spring Boot e automações inteligentes, sempre buscando unir tecnologia e resolução de problemas reais.
+
+Atualmente estudando:
+
+Python
+SQL
+Inteligência Artificial e LLMs
+Automação com n8n
+Engenharia e análise de dados
+Segurança da Informação
+Inglês
 
 ---
 
